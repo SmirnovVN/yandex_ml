@@ -1,2 +1,2 @@
-# yandex_ml
-yandex ml course tasks
+# yandex ml
+coursera yandex ml course tasks
